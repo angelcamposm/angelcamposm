@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Angel Campos and I am a Network Administrator, who switched from Networks to DevOps currently workin at Riu Hotels.
+My name is Angel Campos and I am a Network Administrator, who switched from Networks to DevOps currently workin at [Riu Hotels & Resorts](https://www.riu.com).
 
 - 🔭 I’m currently working on ZenNMS
 - 🌱 I’m currently learning Tailwindcss
